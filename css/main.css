@@ -23,7 +23,6 @@ h1 {
   color: #cc1465;
   font-size: 3rem;
   margin: 0;
-  padding-bottom: .3em;
 }
 
 ul {
@@ -56,6 +55,8 @@ nav a {
   padding: .5em;
   margin-left: .3em;
   color: #fff;
+  font-size: 1.125rem;
+  font-style: normal;
 }
 
 main {
@@ -73,9 +74,14 @@ main {
   padding-bottom: .5em;
 }
 
+.berry {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 h2 {
   margin-top: 0;
-  margin-bottom: .3em;
+  margin-bottom: .5em;
 }
 
 img {
