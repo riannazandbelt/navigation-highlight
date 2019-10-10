@@ -29,7 +29,11 @@ ul {
 
 nav ul {
   list-style-type: none;
-  display: inline-block;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
 }
 
 nav a:hover {
@@ -37,7 +41,7 @@ nav a:hover {
 }
 
 nav a {
-text-decoration: none;
+  text-decoration: none;
 }
 
 main {
