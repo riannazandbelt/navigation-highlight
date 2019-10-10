@@ -3,14 +3,11 @@ html {
   background-color: #ffe500;
   line-height: 1.5;
   box-sizing: border-box;
-  }
-
-  *, *::before, *::after {
-    box-sizing: inherit;
+  color: #2f2d13;
 }
 
 *, *::before, *::after {
-  box-sizing: inherit;
+box-sizing: inherit;
 }
 
 body {
@@ -70,6 +67,7 @@ main {
 
 img {
   width: 100%;
+  display: inherit;
 }
 
 footer {
