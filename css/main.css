@@ -2,6 +2,11 @@ html {
   font-family: Georgia, serif;
   background-color: #ffe500;
   line-height: 1.5;
+  box-sizing: border-box;
+  }
+
+  *, *::before, *::after {
+    box-sizing: inherit;
 }
 
 *, *::before, *::after {
@@ -66,7 +71,6 @@ main {
 img {
   width: 100%;
 }
-
 
 footer {
   text-align: center;
