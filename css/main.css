@@ -11,14 +11,22 @@ html {
 nav a {
 text-decoration: none;
 display: inline-block;
-flex-wrap: wrap;
 }
 
 nav ul {
   list-style-type: none;
-  flex-wrap: wrap;
 }
 
 h1 {
   font-family: "Sigmar One", cursive;
+  color: #cc1465
+}
+
+.berries {
+  font-family: "Sigmar One", cursive;
+  color: #cc1465
+}
+
+main {
+  background-color: #fff;
 }
