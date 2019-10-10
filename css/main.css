@@ -8,17 +8,13 @@ html {
   box-sizing: inherit;
 }
 
-nav a {
-text-decoration: none;
-display: inline-block;
-}
 
 body {
   margin: 0;
 }
 
-nav ul {
-  list-style-type: none;
+header {
+  text-align: center;
 }
 
 h1 {
@@ -26,8 +22,30 @@ h1 {
   color: #cc1465
 }
 
-header {
-  text-align: center;
+ul {
+  padding: 0;
+  display: inline-block;
+}
+
+nav ul {
+  list-style-type: none;
+  display: inline-block;
+}
+
+nav a:hover {
+  display: inline-block;
+}
+
+nav a {
+text-decoration: none;
+}
+
+main {
+  background-color: #fff;
+  padding-top: 1.875rem;
+  padding-bottom: .75rem;
+  padding-right: .75rem;
+  padding-left: .75rem
 }
 
 .berries {
@@ -35,14 +53,11 @@ header {
   color: #cc1465
 }
 
-main {
-  background-color: #fff;
+img {
+  width: 100%;
 }
 
 footer {
   text-align: center;
-}
-
-img {
-  width: 100%
+  padding-top: .75rem;
 }
