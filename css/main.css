@@ -74,8 +74,8 @@ main {
   padding-bottom: .5em;
 }
 
-.berry {
-  margin-top: 0;
+.berry p {
+  margin-top: .3em;
   margin-bottom: 0;
 }
 
@@ -92,4 +92,8 @@ img {
 footer {
   text-align: center;
   padding-top: .75rem;
+}
+
+.footer {
+  padding-bottom: 1rem;
 }
