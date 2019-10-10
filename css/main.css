@@ -60,11 +60,16 @@ main {
 
 .berries {
   font-family: "Sigmar One", cursive;
-  color: #cc1465
+  color: #cc1465;
+  font-size: 1.125rem;
 }
 
 img {
   width: 100%;
+}
+
+p {
+  font-size: .75rem;
 }
 
 footer {
