@@ -23,6 +23,7 @@ h1 {
   color: #cc1465;
   font-size: 3rem;
   margin: 0;
+  padding-bottom: .3em;
 }
 
 ul {
@@ -69,6 +70,7 @@ main {
   font-family: "Sigmar One", cursive;
   color: #cc1465;
   font-size: 1.125rem;
+  padding-bottom: .5em;
 }
 
 h2 {
