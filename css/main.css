@@ -8,7 +8,6 @@ html {
   box-sizing: inherit;
 }
 
-
 body {
   margin: 0;
 }
@@ -55,7 +54,7 @@ main {
   padding-top: 1.875rem;
   padding-bottom: .75rem;
   padding-right: .75rem;
-  padding-left: .75rem
+  padding-left: .75rem;
 }
 
 .berries {
@@ -68,9 +67,6 @@ img {
   width: 100%;
 }
 
-p {
-  font-size: .75rem;
-}
 
 footer {
   text-align: center;
