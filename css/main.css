@@ -19,7 +19,8 @@ header {
 
 h1 {
   font-family: "Sigmar One", cursive;
-  color: #cc1465
+  color: #cc1465;
+  font-size: 3rem;
 }
 
 ul {
@@ -37,11 +38,16 @@ nav ul {
 }
 
 nav a:hover {
-  display: inline-block;
+  background-color: #b20953;
 }
 
 nav a {
   text-decoration: none;
+  background-color: #b2a212;
+  border-radius: .3em;
+  padding: .75em;
+  margin-left: .3em;
+  color: #fff;
 }
 
 main {
